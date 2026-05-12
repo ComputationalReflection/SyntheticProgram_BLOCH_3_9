@@ -1,0 +1,4 @@
+BLOCH-3.9;OnlyEquals.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_9.noncompliant.OnlyEquals
+BLOCH-3.9;OnlyEqualsDifficult.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_9.noncompliant.OnlyEqualsDifficult
+BLOCH-3.9;OnlyHashCode.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_9.noncompliant.OnlyHashCode
+BLOCH-3.9;OnlyHashCodeDifficult.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_9.noncompliant.OnlyHashCodeDifficult
